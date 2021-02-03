@@ -1,2 +1,2 @@
 # js
-Utilizado apenas para Teste
+Utilizado apenas para Teste WSL
